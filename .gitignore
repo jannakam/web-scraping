@@ -12,4 +12,7 @@ debug_page.html
 
 # OS specific
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# python
+venv/
