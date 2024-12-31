@@ -1,0 +1,15 @@
+# Chrome browser files
+chrome-win64/
+chrome.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# Project specific files
+error_page.html
+debug_page.html
+
+# OS specific
+.DS_Store
+Thumbs.db 
