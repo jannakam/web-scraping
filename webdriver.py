@@ -57,11 +57,13 @@ def setup_driver():
         chrome_options = uc.ChromeOptions()
         chrome_options.add_argument('--start-maximized')
         chrome_options.add_argument('--disable-popup-blocking')
-        
-        chrome_binary_path = os.path.join(os.getcwd(), 'chrome-win64', 'chrome.exe')
-        print(f"Chrome binary path: {chrome_binary_path}")
-        chrome_options.binary_location = chrome_binary_path
-        
+
+        # Only set Chrome binary path on Windows
+        if os.name == 'nt':  # Windows systems
+            chrome_binary_path = os.path.join(os.getcwd(), 'chrome-win64', 'chrome.exe')
+            print(f"Chrome binary path: {chrome_binary_path}")
+            chrome_options.binary_location = chrome_binary_path
+
         driver = uc.Chrome(options=chrome_options)
         print("Chrome driver setup successful!")
         return driver
@@ -101,14 +103,14 @@ def extract_serving_size(text, patterns):
 def find_product_name(lines, current_index, window_size=5):
     """Find the most likely product name by looking at surrounding lines"""
     potential_names = []
-    
+
     # Look at previous lines
     start_idx = max(0, current_index - window_size)
     for line in lines[start_idx:current_index]:
         line = line.strip()
         if line and len(line) > 3 and not any(char.isdigit() for char in line):
             potential_names.append(line)
-    
+
     # If no names found in previous lines, look at following lines
     if not potential_names and current_index + 1 < len(lines):
         end_idx = min(len(lines), current_index + window_size)
@@ -116,7 +118,7 @@ def find_product_name(lines, current_index, window_size=5):
             line = line.strip()
             if line and len(line) > 3 and not any(char.isdigit() for char in line):
                 potential_names.append(line)
-    
+
     return potential_names[-1] if potential_names else None
 
 def load_existing_data():
@@ -143,50 +145,50 @@ def process_page_content(driver, products_data, current_url):
     """Process the content of the current page"""
     try:
         # First try to find nutrition tables or specific nutrition sections
-        nutrition_elements = driver.find_elements(By.XPATH, 
+        nutrition_elements = driver.find_elements(By.XPATH,
             "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'nutrition') or "
             "contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'nutritional')]")
-        
+
         page_text = driver.find_element(By.TAG_NAME, "body").text
         lines = page_text.split('\n')
         current_product = None
         products_found_on_page = 0
-        
+
         # Process each line
         for i, line in enumerate(lines):
             line = line.strip()
             if not line:
                 continue
-            
+
             # Extract nutritional information
             calories = extract_number(line, NUTRITION_PATTERNS['calories'])
             protein = extract_number(line, NUTRITION_PATTERNS['protein'])
             carbs = extract_number(line, NUTRITION_PATTERNS['carbs'])
             fat = extract_number(line, NUTRITION_PATTERNS['fat'])
             serving_size = extract_serving_size(line, NUTRITION_PATTERNS['serving_size'])
-            
+
             # If we found any nutritional info
             if any([calories, protein, carbs, fat, serving_size]):
                 if not current_product:
                     current_product = find_product_name(lines, i)
-                
+
                 if current_product:
                     # Create a nutritional values string for comparison
                     current_values = f"cal{calories or 'NA'}_p{protein or 'NA'}_c{carbs or 'NA'}_f{fat or 'NA'}"
                     base_name = current_product
-                    
+
                     # Check if this product name exists with different nutritional values
                     if base_name in products_data:
                         existing_data = products_data[base_name]
                         existing_values = f"cal{existing_data.get('calories', 'NA')}_p{existing_data.get('protein', 'NA')}_c{existing_data.get('carbs', 'NA')}_f{existing_data.get('fat', 'NA')}"
-                        
+
                         if existing_values != current_values:
                             # Find a unique name by adding a suffix
                             suffix = 1
                             while f"{base_name} (Variant {suffix})" in products_data:
                                 variant_data = products_data[f"{base_name} (Variant {suffix})"]
                                 variant_values = f"cal{variant_data.get('calories', 'NA')}_p{variant_data.get('protein', 'NA')}_c{variant_data.get('carbs', 'NA')}_f{variant_data.get('fat', 'NA')}"
-                                
+
                                 if variant_values == current_values:
                                     # Found matching variant, use this name
                                     current_product = f"{base_name} (Variant {suffix})"
@@ -195,7 +197,7 @@ def process_page_content(driver, products_data, current_url):
                             else:
                                 # No matching variant found, create new one
                                 current_product = f"{base_name} (Variant {suffix})"
-                    
+
                     # Update or create product entry
                     products_data[current_product] = {
                         'name': current_product,
@@ -214,13 +216,13 @@ def process_page_content(driver, products_data, current_url):
             else:
                 # Reset product context if we've moved past nutritional information
                 current_product = None
-        
+
         if products_found_on_page > 0:
             print(f"\nFound {products_found_on_page} products on this page")
             save_to_csv(products_data)
         else:
             print("\nNo nutritional information found on this page")
-        
+
         return products_found_on_page
     except Exception as e:
         print(f"Error processing page: {str(e)}")
@@ -231,30 +233,30 @@ def continuous_scraping():
     driver = None
     products_data = load_existing_data()
     last_url = None
-    
+
     try:
         driver = setup_driver()
         print("\nStarting continuous monitoring...")
         print("Navigate to any page in the browser, and I'll automatically scrape nutritional information.")
         print("Press Ctrl+C to stop the script.")
-        
+
         while True:
             try:
                 current_url = driver.current_url
-                
+
                 # Only process if we've navigated to a new URL
                 if current_url != last_url:
                     print(f"\nNew page detected: {current_url}")
                     if wait_for_content(driver):
                         process_page_content(driver, products_data, current_url)
                     last_url = current_url
-                
+
                 time.sleep(2)  # Check for new URLs every 2 seconds
-                
+
             except Exception as e:
                 print(f"Error during monitoring: {str(e)}")
                 time.sleep(2)  # Wait before retrying
-                
+
     except KeyboardInterrupt:
         print("\nStopping the scraper...")
     except Exception as e:

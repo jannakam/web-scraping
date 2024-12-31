@@ -1,242 +1,340 @@
 name,calories,protein,carbs,fat,last_updated,source_url,serving_size
-House Pancakes,302,9.0,50.0,8.0,,,
-Select up to 1,206,11.0,34.0,3.0,,,
-Free-Range Poached Eggs on Toast,290,18.0,27.0,12.0,2024-12-31 20:51:01,https://www.localbeet.co/en,
-Blondie,439,20.0,35.0,26.0,2024-12-31 20:48:27,https://www.localbeet.co/en/categories/44fd916d-f1d9-492e-b0b8-aae6681f597a,
-Avo Smash,301,9.0,34.0,16.0,2024-12-31 20:48:32,https://www.localbeet.co/en/products/5cb59347-04cb-4a39-87ba-095eb03ab046?addToCart=true,
-Labneh And Pomegranate On Toast,317,10.0,32.0,17.0,2024-12-31 20:51:11,https://www.localbeet.co/en/categories/cdea758f-bb3b-4577-af98-72ac88e4beeb,
-Zaatar Salad,248,9.0,22.0,15.0,2024-12-31 21:01:22,https://www.localbeet.co/en/products/a708de83-66ca-4ca9-b012-52cefd637a5b?addToCart=true,
-Description,484,28.1,32.6,26.7,2024-12-31 21:10:37,https://www.ghrelinkw.com/product/chicken/all-time-classic-chicken-fillet,
-G-Classic Beef Burger,460,23.6,26.2,29.0,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Truffle Beef Burger,478,22.7,26.4,31.3,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Guaca Beef Burger,488,25.9,27.8,30.4,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Bahamas Beef Burger,371,25.9,20.1,20.8,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Cheese Burger,384,22.3,28.2,20.2,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-G-Classic Chicken Fillet,508,31.3,33.7,27.4,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-All Time Classic Chicken Fillet,484,28.1,32.6,26.7,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Tornado Shirmp,320,13.9,45.6,8.8,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Bbq Chicken Wings,593,26.5,43.0,35.2,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Buffalo Chicken Wings Sweet Spicy,639,26.5,38.0,42.2,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Original Buffalo Chicken Wings,855,38.5,,62.1,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Chicken Tenders,456,33.7,22.8,25.5,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Onion Ring,530,5.0,49.4,33.8,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Bahamas Fries,475,4.0,52.9,27.4,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Sweet Potato,405,4.0,44.2,23.4,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Fries,400,3.0,43.0,22.5,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-G-Sauces,110,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Truffle Sauce,120,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Ranch Sauce,140,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Honey Mustard,80,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Bahamas Sauce,70,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Bbq Sauce,40,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
-Lemon Chicken And Potato,420,33.0,34.0,14.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Kale Tabbouleh,215,10.8,,13.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Halloumi,410,16.7,35.0,16.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Lemon Chicken And Potato Healthy,310,21.0,18.0,8.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Hot Chocolate,180,6.5,23.2,6.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Toffee Nut Latte,120,5.0,24.0,3.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Truffle Burrata,490,26.0,39.0,18.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Pesto Chicken,485,39.0,49.0,24.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Roast Beef & Cheese,480,31.0,47.8,18.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Salmon Avocado,470,22.0,,43.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Peanut Butter Protein Bar,224,14.0,29.0,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Almond Protein Bar,216,16.0,28.0,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Peanut Butter,266,30.0,33.0,9.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Pecan,219,25.0,11.6,11.3,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Mixed Berries,166,28.0,26.5,3.3,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Healthy Halloumi,320,8.5,25.0,13.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Turkey Sumac With Cheese Healthy,310,16.0,25.0,8.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Egg And Cheese,420,19.0,12.0,18.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Grilled Cheese,410,12.0,30.0,14.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Halloumi And Mint,320,9.0,25.0,10.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Turkey & Cranberry,390,24.0,35.0,12.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Turkey Sumac with Cheese,405,24.0,35.0,12.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Mushroom Sourdough,440,11.0,41.0,12.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Chicken Avocado in Beetroot Bun,430,32.0,30.0,13.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Roast Beef,440,31.0,47.0,17.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Spicy Tuna,420,32.0,55.0,16.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Iced White Mocha,177,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Iced Toffee Nut Latte,160,7.0,28.0,5.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Ice Shaken Vanilla,100,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Ice Shaken Caramel Macchiato,144,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Iced Matcha Latte,178,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Vanilla Latte,100,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Thai Cucumber Salad,152,3.0,,7.5,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Fattoush Salad,165,2.0,,11.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Kale Tabbouleh (Variant 1),215,10.8,,13.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Roasted Corn Salad,175,4.8,,11.4,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Chicken Caesar Salad,325,10.8,,29.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Spinach Walnut Salad,180,13.0,,17.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Greek Yoghurt Granola Jar,275,9.0,,6.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Chia Granola Jar,262,8.0,,10.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Acai Granola Jar,255,9.0,,6.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
-Biscoff Softies,208,N/A,19,8,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Air Bake Zinger Supreme,475,N/A,45,15,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-French Fries,259,N/A,11,259,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Twister Wrap,363,N/A,45,13,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Air Baked Chiken Nuggets,32,N/A,1.3,32.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Chicken Strips,300,35,20,9,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Caesar Wrap,349,N/A,40,13,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Barbeque Wrap,335,N/A,45,11,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Twister Wrap (Variant 1),363,N/A,45,13,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Alternative Wrap,343,N/A,45,11,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Falafel Wrap,353,N/A,49,13,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Legendary Bowl,316,N/A,45,4,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Sumac Chicken Fatteh,N/A,368,5,9.1,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Crispy Chicken Tikka Bowl,381,N/A,9.1,381,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-T Arabia,360,N/A,46,12.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Beef Arabia,424,N/A,16.5,424.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Shrimp Arabia,401,N/A,49,14.6,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Fire Fighter Supreme,398,N/A,47,14,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Santa Fe Chicken,369,N/A,15.6,369.3,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Fish Fillet Sandwich,386,N/A,50,10,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Air Bake Zinger Supreme (Variant 1),475,N/A,45,15,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Air Baked Chiken Nuggets (Variant 1),32,N/A,1.3,32.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Fitness Plate,233,N/A,22,5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Fitness Plate (Variant 1),212,N/A,13,6,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Grilled Chicken Breast,N/A,N/A,0,3,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Air Baked Chicken Burger,380,N/A,40,11.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Air Baked Buffalo Chicken Burger,380,N/A,40,11.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Air Baked Zinger Chicken Burger,272,N/A,35,8,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Fish And Chips,314,N/A,10,314,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Broasted Bucket,192,N/A,10,10,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Crispy Chicken Taco,210,18,13,10,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Beef Taco,172,15,10,8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Chili Nachos,302,25,20,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Twister Nachos,209,12,20,9,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Grilled Chicken Taco,145,15,10,5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Mackintosh Iso Pro,241,N/A,22,7,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Biscoff Softies (Variant 1),208,N/A,19,8,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Kinder Bueno Iso Pro,220,15,15,11,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Milk Chocolate Pro,177,N/A,18,5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Brownie Choco,268,N/A,17,12,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Mix Brownie,289,N/A,13,289,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Speculoos Cake Pro,270,N/A,30,10,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Speculoos Biscuits Pro,257,N/A,29,9,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-BBQ Chicken Pizza,512,N/A,53,16,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Pesto Pizza,428,N/A,55,12,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Zattar Pizza,390,N/A,57,10,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Iso Pro Hot Chocolate,128,N/A,7,128,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Biscoff Milkshake,157,10,18,5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Milk Chocolate Milk Shake Iso Pro,200,N/A,15,6,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Kinder Bueno Milkshake,226,N/A,18,6,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Egg With Sausage Muffin,386,30,35,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Egg With Salami Muffin,330,N/A,10,330,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Club Sandwich,441,N/A,50,12,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Turkey Sandwich,308,N/A,26.7,8.94,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Egg And Beef Bacon,382,N/A,35,14,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Truffle Mushroom Burger,404,30,35,16,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Grilled Chicken Burger,288,28,30,6,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Ts Burger,386,30,35,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Classic Chicken Burger,406,30,40,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Cheese Burger (Variant 1),326,30,35,8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Glazed Donut Chicken Burger,478,33,44,18,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Spicy Cheetos Chicken Burger,442,30,49,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Smashed Burger,428,45,35,12,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Big Mouth Burger,495,50,40,15,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Croon Burger,388,N/A,40,12,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Croon Chicken,434,N/A,45,14,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Crispy Fries,N/A,N/A,8,232,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Tee's Fries,281,N/A,17,281,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Truffle Parmesan Fries,232,N/A,36,8,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-French Fries (Variant 1),259,N/A,11,259,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Jalapeno Bites,205,3,28,9,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Sweet Potato (Variant 1),222,N/A,28,11,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Mozzarella Sticks,276,10,40,8.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Cajun Fries,222,N/A,28,11,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Black Cheesy Bites,258,N/A,21,15,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Black Cheesy Bites (Variant 1),213,N/A,9,213,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Mushroom Fries,205,N/A,5,205,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Mushroom Fries (Variant 1),N/A,N/A,10,250,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Tokyo Fries,242,N/A,36,9,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Tokyo Fries (Variant 1),224,N/A,8,224,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Pecan Cookies,174,N/A,25,6,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Oreo Cheesecake,104,10,7,N/A,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-French Toast,231,N/A,23,11,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Snickers Bars,180,N/A,17,8,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Twix Protein Bar,209,N/A,9,209,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Biscoff Donut Pro,131,7,10,7,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Kinder Donut Pro,152,8,12,8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Glazed Donut Pro,110,7,10,2,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Oreo Donut Pro,266,N/A,25,14,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Burnt Toffee,178,N/A,178.9,N/A,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Cinnamon Pro,220,N/A,26,8,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Chocolate Swirl,250,N/A,28,10,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Keto Brownie,170,N/A,6,14,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Protein Pecan Lotus Bars,N/A,10,16.6,11.8,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Biscoff Cheesecake Protein,104,N/A,7,N/A,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,N/A
-Biscoff Softies (Variant 2),208,N/A,19,8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Air Bake Zinger Supreme (Variant 2),475,N/A,45,15,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-French Fries (Variant 2),259,N/A,11,259,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Twister Wrap (Variant 2),363,N/A,45,13,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Air Baked Chiken Nuggets (Variant 2),32,N/A,1.3,32.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Yuzo Mojito,N/A,N/A,0.5,73.06,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Apple Mojito,N/A,N/A,0.15,69.59,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Passion Fruit Mojito,N/A,N/A,0.15,78.63,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Caesar Wrap (Variant 1),349,N/A,40,13,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Barbeque Wrap (Variant 1),335,N/A,45,11,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Twister Wrap (Variant 3),363,N/A,45,13,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Alternative Wrap (Variant 1),343,N/A,45,11,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Falafel Wrap (Variant 1),353,N/A,49,13,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Legendary Bowl (Variant 1),316,N/A,45,4,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Sumac Chicken Fatteh (Variant 1),N/A,368,5,9.1,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Crispy Chicken Tikka Bowl (Variant 1),381,N/A,9.1,381,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-T Arabia (Variant 1),360,N/A,46,12.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Beef Arabia (Variant 1),424,N/A,16.5,424.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Shrimp Arabia (Variant 1),401,N/A,49,14.6,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Fire Fighter Supreme (Variant 1),398,N/A,47,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Santa Fe Chicken (Variant 1),369,N/A,15.6,369.3,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Fish Fillet Sandwich (Variant 1),386,N/A,50,10,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Air Bake Zinger Supreme (Variant 3),475,N/A,45,15,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Air Baked Chiken Nuggets (Variant 3),32,N/A,1.3,32.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Fitness Plate (Variant 2),233,N/A,22,5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Fitness Plate (Variant 3),212,N/A,13,6,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Grilled Chicken Breast (Variant 1),N/A,N/A,0,3,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Air Baked Chicken Burger (Variant 1),380,N/A,40,11.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Air Baked Buffalo Chicken Burger (Variant 1),380,N/A,40,11.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Air Baked Zinger Chicken Burger (Variant 1),272,N/A,35,8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Fish And Chips (Variant 1),314,N/A,10,314,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Broasted Bucket (Variant 1),192,N/A,10,10,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Mackintosh Iso Pro (Variant 1),241,N/A,22,7,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Biscoff Softies (Variant 3),208,N/A,19,8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Milk Chocolate Pro (Variant 1),177,N/A,18,5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Brownie Choco (Variant 1),268,N/A,17,12,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Mix Brownie (Variant 1),289,N/A,13,289,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Speculoos Cake Pro (Variant 1),270,N/A,30,10,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Speculoos Biscuits Pro (Variant 1),257,N/A,29,9,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-BBQ Chicken Pizza (Variant 1),512,N/A,53,16,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Pesto Pizza (Variant 1),428,N/A,55,12,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Zattar Pizza (Variant 1),390,N/A,57,10,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Iso Pro Hot Chocolate (Variant 1),128,N/A,7,128,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Milk Chocolate Milk Shake Iso Pro (Variant 1),200,N/A,15,6,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Kinder Bueno Milkshake (Variant 1),226,N/A,18,6,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Egg With Salami Muffin (Variant 1),330,N/A,10,330,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Club Sandwich (Variant 1),441,N/A,50,12,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Turkey Sandwich (Variant 1),308,N/A,26.7,8.94,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Egg And Beef Bacon (Variant 1),382,N/A,35,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Croon Burger (Variant 1),388,N/A,40,12,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Croon Chicken (Variant 1),434,N/A,45,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Crispy Fries (Variant 1),N/A,N/A,8,232,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Tee's Fries (Variant 1),281,N/A,17,281,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Truffle Parmesan Fries (Variant 1),232,N/A,36,8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-French Fries (Variant 3),259,N/A,11,259,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Sweet Potato (Variant 2),222,N/A,28,11,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Amazing,213,N/A,30,9,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Cajun Fries (Variant 1),222,N/A,28,11,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Black Cheesy Bites (Variant 2),258,N/A,21,15,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Black Cheesy Bites (Variant 3),205,N/A,5,205,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Mushroom Fries (Variant 2),N/A,N/A,10,250,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Tokyo Fries (Variant 2),242,N/A,36,9,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Tokyo Fries (Variant 3),224,N/A,8,224,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Pecan Cookies (Variant 1),174,N/A,25,6,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Oreo Cheesecake (Variant 1),104,10,7,N/A,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-French Toast (Variant 1),231,N/A,23,11,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Snickers Bars (Variant 1),180,N/A,17,8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Twix Protein Bar (Variant 1),209,N/A,9,209,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Oreo Donut Pro (Variant 1),266,N/A,25,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Burnt Toffee (Variant 1),178,N/A,178.9,N/A,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Cinnamon Pro (Variant 1),220,N/A,26,8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Chocolate Swirl (Variant 1),250,N/A,28,10,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Keto Brownie (Variant 1),170,N/A,6,14,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Protein Pecan Lotus Bars (Variant 1),N/A,10,16.6,11.8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
-Biscoff Cheesecake Protein (Variant 1),104,N/A,7,N/A,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,N/A
+House Pancakes,302.0,9.0,50.0,8.0,,,
+Select up to 1,206.0,11.0,34.0,3.0,,,
+Free-Range Poached Eggs on Toast,290.0,18.0,27.0,12.0,2024-12-31 20:51:01,https://www.localbeet.co/en,
+Blondie,439.0,20.0,35.0,26.0,2024-12-31 20:48:27,https://www.localbeet.co/en/categories/44fd916d-f1d9-492e-b0b8-aae6681f597a,
+Avo Smash,301.0,9.0,34.0,16.0,2024-12-31 20:48:32,https://www.localbeet.co/en/products/5cb59347-04cb-4a39-87ba-095eb03ab046?addToCart=true,
+Labneh And Pomegranate On Toast,317.0,10.0,32.0,17.0,2024-12-31 20:51:11,https://www.localbeet.co/en/categories/cdea758f-bb3b-4577-af98-72ac88e4beeb,
+Zaatar Salad,248.0,9.0,22.0,15.0,2024-12-31 21:01:22,https://www.localbeet.co/en/products/a708de83-66ca-4ca9-b012-52cefd637a5b?addToCart=true,
+Description,484.0,28.1,32.6,26.7,2024-12-31 21:10:37,https://www.ghrelinkw.com/product/chicken/all-time-classic-chicken-fillet,
+G-Classic Beef Burger,460.0,23.6,26.2,29.0,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Truffle Beef Burger,478.0,22.7,26.4,31.3,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Guaca Beef Burger,488.0,25.9,27.8,30.4,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Bahamas Beef Burger,371.0,25.9,20.1,20.8,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Cheese Burger,384.0,22.3,28.2,20.2,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+G-Classic Chicken Fillet,508.0,31.3,33.7,27.4,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+All Time Classic Chicken Fillet,484.0,28.1,32.6,26.7,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Tornado Shirmp,320.0,13.9,45.6,8.8,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Bbq Chicken Wings,593.0,26.5,43.0,35.2,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Buffalo Chicken Wings Sweet Spicy,639.0,26.5,38.0,42.2,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Original Buffalo Chicken Wings,855.0,38.5,,62.1,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Chicken Tenders,456.0,33.7,22.8,25.5,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Onion Ring,530.0,5.0,49.4,33.8,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Bahamas Fries,475.0,4.0,52.9,27.4,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Sweet Potato,405.0,4.0,44.2,23.4,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Fries,400.0,3.0,43.0,22.5,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+G-Sauces,110.0,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Truffle Sauce,120.0,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Ranch Sauce,140.0,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Honey Mustard,80.0,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Bahamas Sauce,70.0,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Bbq Sauce,40.0,,,,2024-12-31 21:10:47,https://www.ghrelinkw.com/,
+Lemon Chicken And Potato,420.0,33.0,34.0,14.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Kale Tabbouleh,215.0,10.8,,13.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Halloumi,410.0,16.7,35.0,16.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Lemon Chicken And Potato Healthy,310.0,21.0,18.0,8.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Hot Chocolate,180.0,6.5,23.2,6.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Toffee Nut Latte,120.0,5.0,24.0,3.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Truffle Burrata,490.0,26.0,39.0,18.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Pesto Chicken,485.0,39.0,49.0,24.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Roast Beef & Cheese,480.0,31.0,47.8,18.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Salmon Avocado,470.0,22.0,,43.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Peanut Butter Protein Bar,224.0,14.0,29.0,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Almond Protein Bar,216.0,16.0,28.0,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Peanut Butter,266.0,30.0,33.0,9.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Pecan,219.0,25.0,11.6,11.3,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Mixed Berries,166.0,28.0,26.5,3.3,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Healthy Halloumi,320.0,8.5,25.0,13.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Turkey Sumac With Cheese Healthy,310.0,16.0,25.0,8.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Egg And Cheese,420.0,19.0,12.0,18.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Grilled Cheese,410.0,12.0,30.0,14.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Halloumi And Mint,320.0,9.0,25.0,10.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Turkey & Cranberry,390.0,24.0,35.0,12.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Turkey Sumac with Cheese,405.0,24.0,35.0,12.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Mushroom Sourdough,440.0,11.0,41.0,12.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Chicken Avocado in Beetroot Bun,430.0,32.0,30.0,13.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Roast Beef,440.0,31.0,47.0,17.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Spicy Tuna,420.0,32.0,55.0,16.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Iced White Mocha,177.0,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Iced Toffee Nut Latte,160.0,7.0,28.0,5.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Ice Shaken Vanilla,100.0,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Ice Shaken Caramel Macchiato,144.0,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Iced Matcha Latte,178.0,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Vanilla Latte,100.0,,,,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Thai Cucumber Salad,152.0,3.0,,7.5,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Fattoush Salad,165.0,2.0,,11.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Kale Tabbouleh (Variant 1),215.0,10.8,,13.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Roasted Corn Salad,175.0,4.8,,11.4,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Chicken Caesar Salad,325.0,10.8,,29.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Spinach Walnut Salad,180.0,13.0,,17.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Greek Yoghurt Granola Jar,275.0,9.0,,6.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Chia Granola Jar,262.0,8.0,,10.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Acai Granola Jar,255.0,9.0,,6.0,2024-12-31 21:12:58,https://www.talabat.com/kuwait/restaurant/673492/bartone-surra?aid=42,
+Biscoff Softies,208.0,,19.0,8.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Air Bake Zinger Supreme,475.0,,45.0,15.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+French Fries,259.0,,11.0,259.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Twister Wrap,363.0,,45.0,13.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Air Baked Chiken Nuggets,32.0,,1.3,32.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Chicken Strips,300.0,35.0,20.0,9.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Caesar Wrap,349.0,,40.0,13.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Barbeque Wrap,335.0,,45.0,11.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Twister Wrap (Variant 1),363.0,,45.0,13.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Alternative Wrap,343.0,,45.0,11.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Falafel Wrap,353.0,,49.0,13.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Legendary Bowl,316.0,,45.0,4.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Sumac Chicken Fatteh,,368.0,5.0,9.1,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Crispy Chicken Tikka Bowl,381.0,,9.1,381.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+T Arabia,360.0,,46.0,12.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Beef Arabia,424.0,,16.5,424.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Shrimp Arabia,401.0,,49.0,14.6,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Fire Fighter Supreme,398.0,,47.0,14.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Santa Fe Chicken,369.0,,15.6,369.3,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Fish Fillet Sandwich,386.0,,50.0,10.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Air Bake Zinger Supreme (Variant 1),475.0,,45.0,15.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Air Baked Chiken Nuggets (Variant 1),32.0,,1.3,32.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Fitness Plate,233.0,,22.0,5.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Fitness Plate (Variant 1),212.0,,13.0,6.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Grilled Chicken Breast,,,0.0,3.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Air Baked Chicken Burger,380.0,,40.0,11.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Air Baked Buffalo Chicken Burger,380.0,,40.0,11.5,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Air Baked Zinger Chicken Burger,272.0,,35.0,8.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Fish And Chips,314.0,,10.0,314.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Broasted Bucket,192.0,,10.0,10.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Crispy Chicken Taco,210.0,18.0,13.0,10.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Beef Taco,172.0,15.0,10.0,8.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Chili Nachos,302.0,25.0,20.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Twister Nachos,209.0,12.0,20.0,9.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Grilled Chicken Taco,145.0,15.0,10.0,5.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Mackintosh Iso Pro,241.0,,22.0,7.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Biscoff Softies (Variant 1),208.0,,19.0,8.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Kinder Bueno Iso Pro,220.0,15.0,15.0,11.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Milk Chocolate Pro,177.0,,18.0,5.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Brownie Choco,268.0,,17.0,12.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Mix Brownie,289.0,,13.0,289.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Speculoos Cake Pro,270.0,,30.0,10.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Speculoos Biscuits Pro,257.0,,29.0,9.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+BBQ Chicken Pizza,512.0,,53.0,16.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Pesto Pizza,428.0,,55.0,12.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Zattar Pizza,390.0,,57.0,10.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Iso Pro Hot Chocolate,128.0,,7.0,128.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Biscoff Milkshake,157.0,10.0,18.0,5.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Milk Chocolate Milk Shake Iso Pro,200.0,,15.0,6.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Kinder Bueno Milkshake,226.0,,18.0,6.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Egg With Sausage Muffin,386.0,30.0,35.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Egg With Salami Muffin,330.0,,10.0,330.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Club Sandwich,441.0,,50.0,12.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Turkey Sandwich,308.0,,26.7,8.94,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Egg And Beef Bacon,382.0,,35.0,14.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Truffle Mushroom Burger,404.0,30.0,35.0,16.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Grilled Chicken Burger,288.0,28.0,30.0,6.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Ts Burger,386.0,30.0,35.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Classic Chicken Burger,406.0,30.0,40.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Cheese Burger (Variant 1),326.0,30.0,35.0,8.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Glazed Donut Chicken Burger,478.0,33.0,44.0,18.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Spicy Cheetos Chicken Burger,442.0,30.0,49.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Smashed Burger,428.0,45.0,35.0,12.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Big Mouth Burger,495.0,50.0,40.0,15.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Croon Burger,388.0,,40.0,12.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Croon Chicken,434.0,,45.0,14.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Crispy Fries,,,8.0,232.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Tee's Fries,281.0,,17.0,281.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Truffle Parmesan Fries,232.0,,36.0,8.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+French Fries (Variant 1),259.0,,11.0,259.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Jalapeno Bites,205.0,3.0,28.0,9.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Sweet Potato (Variant 1),222.0,,28.0,11.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Mozzarella Sticks,276.0,10.0,40.0,8.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Cajun Fries,222.0,,28.0,11.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Black Cheesy Bites,258.0,,21.0,15.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Black Cheesy Bites (Variant 1),213.0,,9.0,213.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Mushroom Fries,205.0,,5.0,205.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Mushroom Fries (Variant 1),,,10.0,250.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Tokyo Fries,242.0,,36.0,9.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Tokyo Fries (Variant 1),224.0,,8.0,224.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Pecan Cookies,174.0,,25.0,6.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Oreo Cheesecake,104.0,10.0,7.0,,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+French Toast,231.0,,23.0,11.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Snickers Bars,180.0,,17.0,8.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Twix Protein Bar,209.0,,9.0,209.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Biscoff Donut Pro,131.0,7.0,10.0,7.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Kinder Donut Pro,152.0,8.0,12.0,8.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Glazed Donut Pro,110.0,7.0,10.0,2.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Oreo Donut Pro,266.0,,25.0,14.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Burnt Toffee,178.0,,178.9,,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Cinnamon Pro,220.0,,26.0,8.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Chocolate Swirl,250.0,,28.0,10.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Keto Brownie,170.0,,6.0,14.0,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Protein Pecan Lotus Bars,,10.0,16.6,11.8,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Biscoff Cheesecake Protein,104.0,,7.0,,2024-12-31 21:51:15,https://www.talabat.com/kuwait/restaurant/720190/SURRA?&aid=42,
+Biscoff Softies (Variant 2),208.0,,19.0,8.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Air Bake Zinger Supreme (Variant 2),475.0,,45.0,15.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+French Fries (Variant 2),259.0,,11.0,259.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Twister Wrap (Variant 2),363.0,,45.0,13.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Air Baked Chiken Nuggets (Variant 2),32.0,,1.3,32.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Yuzo Mojito,,,0.5,73.06,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Apple Mojito,,,0.15,69.59,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Passion Fruit Mojito,,,0.15,78.63,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Caesar Wrap (Variant 1),349.0,,40.0,13.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Barbeque Wrap (Variant 1),335.0,,45.0,11.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Twister Wrap (Variant 3),363.0,,45.0,13.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Alternative Wrap (Variant 1),343.0,,45.0,11.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Falafel Wrap (Variant 1),353.0,,49.0,13.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Legendary Bowl (Variant 1),316.0,,45.0,4.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Sumac Chicken Fatteh (Variant 1),,368.0,5.0,9.1,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Crispy Chicken Tikka Bowl (Variant 1),381.0,,9.1,381.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+T Arabia (Variant 1),360.0,,46.0,12.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Beef Arabia (Variant 1),424.0,,16.5,424.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Shrimp Arabia (Variant 1),401.0,,49.0,14.6,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Fire Fighter Supreme (Variant 1),398.0,,47.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Santa Fe Chicken (Variant 1),369.0,,15.6,369.3,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Fish Fillet Sandwich (Variant 1),386.0,,50.0,10.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Air Bake Zinger Supreme (Variant 3),475.0,,45.0,15.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Air Baked Chiken Nuggets (Variant 3),32.0,,1.3,32.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Fitness Plate (Variant 2),233.0,,22.0,5.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Fitness Plate (Variant 3),212.0,,13.0,6.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Grilled Chicken Breast (Variant 1),,,0.0,3.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Air Baked Chicken Burger (Variant 1),380.0,,40.0,11.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Air Baked Buffalo Chicken Burger (Variant 1),380.0,,40.0,11.5,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Air Baked Zinger Chicken Burger (Variant 1),272.0,,35.0,8.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Fish And Chips (Variant 1),314.0,,10.0,314.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Broasted Bucket (Variant 1),192.0,,10.0,10.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Mackintosh Iso Pro (Variant 1),241.0,,22.0,7.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Biscoff Softies (Variant 3),208.0,,19.0,8.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Milk Chocolate Pro (Variant 1),177.0,,18.0,5.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Brownie Choco (Variant 1),268.0,,17.0,12.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Mix Brownie (Variant 1),289.0,,13.0,289.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Speculoos Cake Pro (Variant 1),270.0,,30.0,10.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Speculoos Biscuits Pro (Variant 1),257.0,,29.0,9.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+BBQ Chicken Pizza (Variant 1),512.0,,53.0,16.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Pesto Pizza (Variant 1),428.0,,55.0,12.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Zattar Pizza (Variant 1),390.0,,57.0,10.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Iso Pro Hot Chocolate (Variant 1),128.0,,7.0,128.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Milk Chocolate Milk Shake Iso Pro (Variant 1),200.0,,15.0,6.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Kinder Bueno Milkshake (Variant 1),226.0,,18.0,6.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Egg With Salami Muffin (Variant 1),330.0,,10.0,330.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Club Sandwich (Variant 1),441.0,,50.0,12.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Turkey Sandwich (Variant 1),308.0,,26.7,8.94,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Egg And Beef Bacon (Variant 1),382.0,,35.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Croon Burger (Variant 1),388.0,,40.0,12.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Croon Chicken (Variant 1),434.0,,45.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Crispy Fries (Variant 1),,,8.0,232.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Tee's Fries (Variant 1),281.0,,17.0,281.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Truffle Parmesan Fries (Variant 1),232.0,,36.0,8.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+French Fries (Variant 3),259.0,,11.0,259.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Sweet Potato (Variant 2),222.0,,28.0,11.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Amazing,213.0,,30.0,9.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Cajun Fries (Variant 1),222.0,,28.0,11.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Black Cheesy Bites (Variant 2),258.0,,21.0,15.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Black Cheesy Bites (Variant 3),205.0,,5.0,205.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Mushroom Fries (Variant 2),,,10.0,250.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Tokyo Fries (Variant 2),242.0,,36.0,9.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Tokyo Fries (Variant 3),224.0,,8.0,224.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Pecan Cookies (Variant 1),174.0,,25.0,6.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Oreo Cheesecake (Variant 1),104.0,10.0,7.0,,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+French Toast (Variant 1),231.0,,23.0,11.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Snickers Bars (Variant 1),180.0,,17.0,8.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Twix Protein Bar (Variant 1),209.0,,9.0,209.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Oreo Donut Pro (Variant 1),266.0,,25.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Burnt Toffee (Variant 1),178.0,,178.9,,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Cinnamon Pro (Variant 1),220.0,,26.0,8.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Chocolate Swirl (Variant 1),250.0,,28.0,10.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Keto Brownie (Variant 1),170.0,,6.0,14.0,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Protein Pecan Lotus Bars (Variant 1),,10.0,16.6,11.8,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Biscoff Cheesecake Protein (Variant 1),104.0,,7.0,,2024-12-31 21:54:11,https://www.talabat.com/kuwait/restaurant/674628/QIBLA?&aid=50,
+Matcha Latte,175,4,22,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Kinder Bites,115,1,17,6,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Spanish Latte,190,4,26,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Americano,0,N/A,N/A,N/A,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Mango Vanilla Mix Swirl Ice Cream,220,3,41,5,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Cubano,175,4,24,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken Guacamole Tacos,310,20,30,12,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Blue Tea Lemonade,115,0,29,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Spicy Club Bun,425,35,30,18,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken Fried Rice,435,35,40,15,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Roasted Potato,230,12,25,9,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chips And Beets Hummus,215,9,22,10,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chips And Avocado Hummus,210,8,22,10,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Grilled Corn,235,6,30,10,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Harvest Protien Pot,199,20,4,10,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Banana Oatmeal Pot,255,10,25,13,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Power Pot Berries,199,15,23,5,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Sesame Salad,199,4,12,15,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken Caesar Salad (Variant 1),285,25,6,18,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken Harvest Salad,299,30,9,16,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Corn Salad,265,4,22,18,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken Club Sandwich,399,35,32,15,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken Guacamole Sandwich,355,22,38,13,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Turkey Sandwich (Variant 2),325,22,35,11,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Beets And Halloumi Sandwich,299,15,33,12,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Halloumi Cheese Sandwich,320,15,35,13,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Cheese Trio Sandwich,355,15,33,18,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Labneh Focaccia Sandwich,310,10,40,12,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Beef Tenderloin Wrap,375,30,32,14,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken Wrap,350,35,32,9,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Falafel Wrap (Variant 2),375,10,48,16,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Buffalo Chicken Bun,375,30,30,15,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Spicy Tuna Melt Bun,385,30,30,16,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Halloumi Beets Bun,260,12,30,10,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Ribs Tacos,355,25,30,15,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Shrimp Tacos,270,15,30,10,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Beef And Rice,450,35,48,13,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Baby Corn Beef,495,35,55,15,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Beef And Mushroom,499,40,40,20,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken And Mash,410,30,40,14,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Shrimp And Rice,495,30,48,20,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Green Curry Chicken,595,45,54,22,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Butter Chicken,550,40,52,20,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Paprika Chicken,435,40,46,10,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Mushroom Chicken,595,40,55,24,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken Burrito,599,50,60,18,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Chicken Fried Rice (Variant 1),435,35,40,N/A,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Alfredo Chicken Pasta,515,35,40,24,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Pink Pasta Chicken,499,35,40,22,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Penne Arrabbiata Pasta,380,10,45,18,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Beef And Mash Small Dish,330,20,26,16,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Orange Juice,135,0,34,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Royal Mauve Juice,145,0,36,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Pacific Green Juice,150,0,38,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Fiji Juice,150,0,38,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Morning Dew Detox,125,0,32,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Ruby Red Detox,136,0,34,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+PAC Detox,135,0,34,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Ginger Shot,40,0,10,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Turmeric Shot,40,0,10,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Ginger Turmeric Shot,40,0,10,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Equa Lush,195,0,46,1,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Pinacoco Lush,199,0,43,3,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Lemon Grass Lush,155,0,38,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Pom Pom Lush,165,0,39,1,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Caribbean Lush,190,0,44,2,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Tropical Lush,170,0,40,1,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Americano (Variant 1),0,N/A,N/A,N/A,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Iced Espresso,50,N/A,N/A,N/A,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Latte,85,5,8,5,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Cappuccino,75,4,7,4,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Flat White,75,4,7,4,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Coco,165,1,22,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Caramelo,190,4,26,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+White Mocha Latte,200,4,28,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Vanilla Shaken,180,4,26,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Pumpkin Spice Latte,175,4,24,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Peach Iced Tea,95,0,24,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Berries Iced Tea,95,0,24,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Lemonade Juice,95,0,24,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Green Lemonade Juice,115,0,29,0,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Peanut Butter Protein Shake,235,20,12,12,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Pecan Protein Shake,235,20,12,12,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Hot Chocolate (Variant 1),190,3,28,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Dark Chocolate Cookies,135,1,18,7,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Raspberry Cookies,110,1,17,5,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Moroccan Cookies,110,3,14,8,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Pecan Protein Balls,220,3,12,12,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Peanut Butter Protein Balls,220,3,12,12,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Skinny Vanilla Ice Cream,250,5,38,9,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Equa Lush Ice Cream,199,1,45,2,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Pinacoco Ice Cream,220,1,43,5,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Mixed Berries Ice Cream,185,1,43,1,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Mixed Berries Vanilla Swirl Ice Cream,220,3,41,5,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Mango Cheesecake Ice Cream,365,4,56,14,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Mixed Berries Cheesecake Ice Cream,385,6,54,16,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Vanilla Almond Ice Cream,399,7,54,18,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
+Vanilla And Cookies Ice Cream,420,6,50,22,2024-12-31 22:16:09,https://www.talabat.com/kuwait/restaurant/678899/RAI?&aid=76,N/A
